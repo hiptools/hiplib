@@ -1,0 +1,1072 @@
+1
+%<Глава` а~.%>
+103
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  и~_i  и~_i
+verse:  f~_i  f~_i
+verse: 
+к~  к~
+verse:  к~а  к~а
+verse:  к~в  к~в
+verse:  к~г  к~г
+verse:  к~д  к~д
+verse:  к~_е  к~_е
+verse:  к~s  к~s
+verse:  к~з  к~з
+verse:  к~и  к~и
+verse:  к~f  к~f
+verse:  л~  л~
+verse: 
+л~а  л~а
+verse:  л~в  л~в
+verse: 
+л~г  л~г
+verse:  л~д  л~д
+verse:  л~_е  л~_е
+verse:  л~s  л~s
+verse:  л~з  л~з
+verse:  л~и  л~и
+verse:  л~f  л~f
+verse:  м~  м~
+verse:  м~а  м~а
+verse:  м~в  м~в
+verse:  м~г  м~г
+verse:  м~д  м~д
+verse:  м~_е  м~_е
+verse:  м~s  м~s
+verse:  м~з  м~з
+verse:  м~и  м~и
+verse:  м~f  м~f
+verse:  н~  н~
+verse:  н~а  н~а
+%<Глава` в~.%>
+53
+verse:  а~  а~
+verse:  в~  в~
+verse:  в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse: 
+к~а  к~в
+verse:  к~в  к~г
+verse: 
+к~г  к~д
+verse:  к~д  к~_е
+verse: 
+к~_е  к~s
+%<Глава` г~.%>
+75
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse: 
+_е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  в~  з~_i
+verse:  з~_i  и~_i
+verse: 
+и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+verse:  к~и  к~f
+verse:  к~f  л~
+verse:  л~  л~а
+verse:  л~а  л~в
+verse:  л~в  л~г
+verse:  л~г  л~д
+verse: 
+л~д  л~_е
+verse:  л~_е  л~s
+verse:  л~s  л~з
+%<Глава` д~.%>
+113
+verse: 
+а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse: 
+_е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse: 
+и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse: 
+к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+verse:  к~и  к~f
+verse:  к~f  л~
+verse:  л~  л~а
+verse:  л~а  л~в
+verse:  л~в  л~г
+verse:  л~г  л~д
+verse:  л~д  л~_е
+verse:  л~_е  л~s
+verse:  л~s  л~з
+verse:  л~з  л~и
+verse:  л~и  л~f
+verse:  л~f  м~
+verse:  м~  м~а
+verse:  м~а  м~в
+verse: 
+м~в  м~г
+verse: 
+м~г  м~д
+verse:  м~д  м~_е
+verse:  м~_е  м~s
+verse:  м~s  м~з
+verse: 
+г~  м~и
+verse:  м~з  м~f
+verse:  м~и  н~
+verse:  м~f  н~а
+verse:  н~  н~в
+verse:  н~а  н~г
+verse:  н~в  н~д
+verse:  н~г  н~_е
+verse:  н~д  н~s
+%<Глава` _е~.%>
+101
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse: 
+s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  в~  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  в~  к~s
+verse: 
+к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  в~  л~г
+verse: 
+л~а  л~д
+verse:  л~в  л~_е
+verse: 
+л~г  л~s
+verse:  л~д  л~з
+verse:  л~_е  л~и
+verse:  л~s  л~f
+verse:  л~з  м~
+verse:  л~и  м~а
+verse:  л~f  м~в
+verse:  м~  м~г
+verse:  м~а  м~д
+verse:  м~в  м~_е
+verse:  м~г  м~s
+verse:  м~д  м~з
+verse:  м~_е  м~и
+verse:  м~s  м~f
+verse:  м~з  н~
+%<Глава` s~.%>
+155
+verse: 
+а~  а~
+verse:  в~  в~
+verse: 
+г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse: 
+_е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+verse:  г~  к~f
+verse: 
+к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  л~а  л~г
+verse:  л~в  л~д
+verse: 
+л~г  л~_е
+verse: 
+л~д  л~s
+verse:  л~_е  л~з
+verse:  г~  л~и
+verse:  л~s  л~f
+verse:  л~з  м~
+verse:  л~и  м~а
+verse:  л~f  м~в
+verse:  м~  м~г
+verse: 
+г~  м~д
+verse: 
+м~а  м~_е
+verse:  м~в  м~s
+verse:  м~г  м~з
+verse:  м~д  м~и
+verse: 
+м~_е  м~f
+verse:  м~s  н~
+verse:  м~з  н~а
+verse:  м~и  н~в
+verse:  г~  н~г
+verse:  м~f  н~д
+verse:  н~  н~_е
+verse:  н~а  н~s
+verse:  н~в  н~з
+verse:  н~д  н~и
+verse:  н~_е  н~f
+verse: 
+н~_е  _кс~
+verse:  н~s  _кс~а
+verse:  д~  _кс~в
+verse:  н~з  _кс~г
+verse:  н~и  _кс~д
+verse:  н~f  _кс~_е
+verse:  _кс~  _кс~s
+verse:  _кс~а  _кс~з
+verse:  _кс~в  _кс~и
+verse: 
+_кс~г  _кс~f
+verse:  _кс~д  _о~
+verse:  _кс~_е  _о~а
+verse:  _кс~s  _о~в
+verse: 
+_кс~з  _о~г
+verse:  _кс~и  _о~д
+verse:  _кс~f  _о~_е
+verse: 
+_о~  _о~s
+verse:  _о~а  _о~з
+%<Глава` з~.%>
+113
+verse:  а~  а~
+verse:  д~  в~
+verse:  в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  д~  s~_i
+verse:  _е~_i  з~_i
+verse:  s~_i  и~_i
+verse:  з~_i  f~_i
+verse:  и~_i  к~
+verse:  f~_i  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse:  к~д  к~s
+verse:  к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse: 
+л~а  л~г
+verse:  л~в  л~д
+verse:  л~г  л~_е
+verse:  л~д  л~s
+verse:  л~_е  л~з
+verse:  л~s  л~и
+verse:  л~з  л~f
+verse:  л~и  м~
+verse:  л~f  м~а
+verse:  м~  м~в
+verse:  м~а  м~г
+verse:  м~в  м~д
+verse:  м~г  м~_е
+verse:  м~д  м~s
+verse:  м~_е  м~з
+verse: 
+м~s  м~и
+verse:  м~з  м~f
+verse:  м~и  н~
+verse:  м~f  н~а
+verse:  н~  н~в
+verse:  н~а  н~г
+verse:  н~в  н~д
+verse:  и~  н~_е
+verse: 
+н~г  н~s
+%<Глава` и~.%>
+129
+verse: 
+а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  д~  г~_i
+verse: 
+г~_i  д~_i
+verse: 
+д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  д~  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse:  к~д  к~s
+verse:  к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  л~а  л~г
+verse:  д~  л~д
+verse:  л~в  л~_е
+verse:  л~г  л~s
+verse:  л~д  л~з
+verse:  л~_е  л~и
+verse:  л~s  л~f
+verse: 
+л~з  м~
+verse: 
+л~и  м~а
+verse: 
+л~f  м~в
+verse: 
+м~  м~г
+verse:  м~а  м~д
+verse:  м~в  м~_е
+verse:  _е~  м~s
+verse:  м~г  м~з
+verse:  м~д  м~и
+verse:  м~_е  м~f
+verse:  м~s  н~
+verse:  м~з  н~а
+verse:  м~и  н~в
+verse:  м~f  н~г
+verse:  н~  н~д
+verse:  н~а  н~_е
+verse:  _е~  н~s
+verse: 
+н~в  н~з
+verse:  н~г  н~и
+verse:  н~д  н~f
+verse:  н~_е  _кс~
+verse:  н~s  _кс~а
+verse:  н~з  _кс~в
+verse:  н~и  _кс~г
+verse:  н~f  _кс~д
+%<Глава` f~.%>
+87
+verse:  а~  а~
+verse: 
+s~  в~
+verse:  в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+verse:  к~и  к~f
+verse:  к~f  л~
+verse:  л~  л~а
+verse:  л~а  л~в
+verse:  л~в  л~г
+verse:  л~г  л~д
+verse:  л~д  л~_е
+verse:  л~_е  л~s
+verse:  л~s  л~з
+verse: 
+л~з  л~и
+verse:  л~и  л~f
+verse:  л~f  м~
+verse:  _е~  м~а
+verse:  м~  м~в
+verse:  м~а  м~г
+%<Глава` _i~.%>
+89
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse: 
+_i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  _е~  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+verse:  _е~  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  л~а  л~г
+verse:  л~в  л~д
+verse:  л~г  л~_е
+verse:  л~д  л~s
+verse: 
+л~_е  л~з
+verse:  л~s  л~и
+verse:  л~з  л~f
+verse:  л~и  м~
+verse: 
+л~f  м~а
+verse:  м~  м~в
+verse:  м~а  м~г
+verse:  м~в  м~д
+%<Глава` а~_i.%>
+117
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse: 
+s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  и~_i  и~_i
+verse:  f~_i  f~_i
+verse:  к~  к~
+verse: 
+к~а  к~а
+verse:  к~в  к~в
+verse: 
+к~г  к~г
+verse:  к~д  к~д
+verse:  к~_е  к~_е
+verse:  к~s  к~s
+verse:  к~з  к~з
+verse:  к~и  к~и
+verse:  к~f  к~f
+verse:  л~  л~
+verse:  л~а  л~а
+verse:  л~в  л~в
+verse:  л~г  л~г
+verse: 
+л~д  л~д
+verse:  л~_е  л~_е
+verse:  л~s  л~s
+verse: 
+л~з  л~з
+verse:  л~и  л~и
+verse:  л~f  л~f
+verse:  м~  м~
+verse:  м~а  м~а
+verse:  м~в  м~в
+verse:  м~г  м~г
+verse:  м~д  м~д
+verse:  м~_е  м~_е
+verse: 
+м~s  м~s
+verse:  м~з  м~з
+verse:  s~  м~и
+verse:  м~и  м~f
+verse:  м~f  н~
+verse:  н~  н~а
+verse:  н~а  н~в
+verse:  н~в  н~г
+verse:  н~г  н~д
+verse:  н~д  н~_е
+verse: 
+н~_е  н~s
+verse:  н~s  н~з
+verse:  н~з  н~и
+%<Глава` в~_i.%>
+107
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  м~д  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  s~  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse:  к~д  к~s
+verse: 
+к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse: 
+л~  л~в
+verse:  л~а  л~г
+verse: 
+л~в  л~д
+verse:  л~г  л~_е
+verse:  л~д  л~s
+verse:  л~_е  л~з
+verse:  л~s  л~и
+verse:  s~  л~f
+verse:  л~з  м~
+verse:  л~и  м~а
+verse:  л~f  м~в
+verse:  м~  м~г
+verse:  м~а  м~д
+verse:  м~в  м~_е
+verse:  м~г  м~s
+verse:  м~д  м~з
+verse:  м~_е  м~и
+verse:  м~s  м~f
+verse:  м~з  н~
+verse: 
+м~и  н~а
+verse:  м~f  н~в
+verse:  н~  н~г
+%<Глава` г~_i.%>
+83
+verse:  а~  а~
+verse:  а~  в~
+verse:  в~  г~
+verse: 
+г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  в~  д~_i
+verse:  г~_i  _е~_i
+verse:  д~_i  s~_i
+verse:  _е~_i  з~_i
+verse:  s~_i  и~_i
+verse:  з~_i  f~_i
+verse: 
+и~_i  к~
+verse:  f~_i  к~а
+verse:  к~  к~в
+verse: 
+к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse:  к~д  к~s
+verse:  к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  л~а  л~г
+verse:  а~  л~д
+verse:  л~в  л~_е
+verse: 
+л~г  л~s
+verse:  л~д  л~з
+verse:  л~_е  л~и
+verse:  л~s  л~f
+verse:  л~з  м~
+verse: 
+л~и  м~а
+%<Глава` д~_i.%>
+69
+verse:  а~  а~
+verse:  s~  в~
+verse:  в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  s~  в~_i
+verse:  а~_i  г~_i
+verse:  в~_i  д~_i
+verse:  г~_i  _е~_i
+verse:  д~_i  s~_i
+verse:  _е~_i  з~_i
+verse:  s~_i  и~_i
+verse:  з~_i  f~_i
+verse:  и~_i  к~
+verse:  f~_i  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse: 
+к~в  к~д
+verse: 
+к~г  к~_е
+verse:  к~д  к~s
+verse: 
+к~_е  к~з
+verse:  к~s  к~и
+verse:  к~з  к~f
+verse:  з~  л~
+verse:  к~и  л~а
+verse:  к~f  л~в
+verse:  л~  л~г
+verse:  л~а  л~д
+%<Глава` _е~_i.%>
+57
+verse:  а~  а~
+verse: 
+в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse: 
+и~  и~
+verse:  f~  f~
+verse: 
+_i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse:  д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  г~  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse:  к~з  к~и
+%<Глава` s~_i.%>
+73
+verse: 
+а~  а~
+verse:  в~  в~
+verse: 
+з~  г~
+verse: 
+г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  з~  з~_i
+verse:  s~_i  и~_i
+verse:  з~_i  f~_i
+verse:  и~_i  к~
+verse:  f~_i  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse:  з~  к~s
+verse: 
+к~д  к~з
+verse:  к~_е  к~и
+verse:  к~s  к~f
+verse:  к~з  л~
+verse:  к~и  л~а
+verse:  к~f  л~в
+verse:  л~  л~г
+verse:  л~а  л~д
+verse:  л~в  л~_е
+verse:  л~г  л~s
+%<Глава` з~_i.%>
+55
+verse:  а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse: 
+_е~  _е~
+verse: 
+s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  а~_i  а~_i
+verse:  в~_i  в~_i
+verse:  г~_i  г~_i
+verse: 
+д~_i  д~_i
+verse:  _е~_i  _е~_i
+verse:  s~_i  s~_i
+verse:  з~_i  з~_i
+verse:  и~_i  и~_i
+verse:  з~  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+%<Глава` и~_i.%>
+87
+verse:  а~  а~
+verse:  в~  в~
+verse: 
+в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse: 
+з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse:  к~а  к~в
+verse:  к~в  к~г
+verse:  к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  к~s  к~з
+verse: 
+к~з  к~и
+verse:  к~и  к~f
+verse:  д~  л~
+verse:  f~  л~а
+verse: 
+к~f  л~в
+verse:  л~  л~г
+verse:  л~а  л~д
+verse:  л~в  л~_е
+verse:  л~г  л~s
+verse:  л~д  л~з
+verse:  л~_е  л~и
+verse:  л~s  л~f
+verse: 
+л~з  м~
+verse:  л~и  м~а
+verse:  л~f  м~в
+verse:  м~  м~г
+%<Глава` f~_i.%>
+95
+verse: 
+а~  а~
+verse:  в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  д~_i  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse: 
+г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  к~  к~а
+verse: 
+к~а  к~в
+verse:  к~в  к~г
+verse: 
+к~г  к~д
+verse:  к~д  к~_е
+verse:  к~_е  к~s
+verse:  f~  к~з
+verse:  и~  к~и
+verse:  к~s  к~f
+verse:  к~з  л~
+verse: 
+к~и  л~а
+verse:  к~f  л~в
+verse:  л~  л~г
+verse: 
+л~а  л~д
+verse:  л~в  л~_е
+verse:  л~г  л~s
+verse:  л~д  л~з
+verse:  л~_е  л~и
+verse:  л~s  л~f
+verse:  л~з  м~
+verse:  л~и  м~а
+verse:  а~_i  м~в
+verse:  л~f  м~г
+verse:  м~  м~д
+verse: 
+м~а  м~_е
+verse:  м~в  м~s
+verse:  а~_i  м~з
+%<Глава` к~.%>
+67
+verse:  а~  а~
+verse: 
+в~  в~
+verse:  г~  г~
+verse:  д~  д~
+verse:  _е~  _е~
+verse:  s~  s~
+verse:  з~  з~
+verse:  и~  и~
+verse:  f~  f~
+verse:  _i~  _i~
+verse:  з~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse: 
+д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  s~_i  з~_i
+verse:  з~_i  и~_i
+verse:  и~_i  f~_i
+verse:  f~_i  к~
+verse:  f~  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse: 
+к~д  к~s
+verse: 
+к~_е  к~з
+verse: 
+к~s  к~и
+verse:  к~з  к~f
+verse:  к~и  л~
+verse:  к~f  л~а
+verse:  л~  л~в
+verse:  л~а  л~г
+%<Глава` к~а.%>
+59
+verse:  а~  а~
+verse:  _i~  в~
+verse:  в~  г~
+verse:  г~  д~
+verse:  д~  _е~
+verse:  _е~  s~
+verse:  s~  з~
+verse:  з~  и~
+verse:  и~  f~
+verse:  f~  _i~
+verse:  _i~  а~_i
+verse:  а~_i  в~_i
+verse:  в~_i  г~_i
+verse:  г~_i  д~_i
+verse:  д~_i  _е~_i
+verse:  _е~_i  s~_i
+verse:  а~_i  з~_i
+verse:  s~_i  и~_i
+verse:  з~_i  f~_i
+verse:  и~_i  к~
+verse:  f~_i  к~а
+verse:  к~  к~в
+verse:  к~а  к~г
+verse:  к~в  к~д
+verse:  к~г  к~_е
+verse: 
+к~д  к~s
+verse:  к~_е  к~з
+verse:  а~_i  к~и
+verse:  л~в  к~f
